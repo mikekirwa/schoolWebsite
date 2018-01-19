@@ -1,0 +1,246 @@
+.Ha
+{
+	color: red;
+	border: 1px pink solid;
+	border-style: outset;
+	
+}
+.A
+{
+	background-color: pink;
+	color: purple;
+	height: 100px;
+	clear: both;
+
+}
+.btn1
+{
+	float: right;
+	margin-left: 30px;
+	margin-right: 30px;
+	border: 1px solid white;
+	border-radius: 10px;
+	font-size: 15px;
+	background-color: purple; 
+}
+.btn2
+{
+	float: right;
+	border: 1px solid white;
+	border-radius: 10px;
+	font-size: 15px;
+	background-color: purple;
+	margin-left: 40px;
+
+}
+}
+div
+{
+	border: 1px solid lightgreen;
+}
+.A
+{
+	text-decoration:none;
+	border: 1px lightgreen solid;
+	border-radius: 20px;
+	border-style: outset;
+}
+hr
+{
+	height: 20px;
+	background-color: lightgreen;
+	color: lightblue;
+	border: 1px solid;
+	clear: both;
+}
+button
+{
+	background-color: yellow;
+	color: red;
+}
+img
+{
+	width: 60%;
+	height: 300px;
+	margin-left: 20%;
+	margin-right: 20%;
+	border: 1px;
+	border-radius: 10px;
+
+}
+
+.p1
+{
+	background-color: pink;
+	border:1px solid white;
+	border-radius: 10px;
+	border-style: outset;
+    font-family: Kalimati;
+	color: indigo;
+	width: 30%;
+	float: left;
+	font-size: 11px;
+
+
+}
+.p2
+{
+	background-color: pink;
+	border:1px solid white;
+	border-radius: 10px;
+	border-style: outset;
+    font-family: Kalimati;
+	color: indigo;
+	width: 30%;
+	float: right;
+	margin-left: 20px;
+	margin-right: 20px;
+	font-size: 11px;
+	padding: 10px;
+
+
+}
+.p3
+{
+	background-color: pink;
+	border:1px solid white;
+	border-radius: 10px;
+	border-style: outset;
+    font-family: Kalimati;
+	width: 30%;
+	color: indigo;
+	float: right;
+	font-size: 11px;
+
+
+}
+.footer
+{
+	background-color: orange;
+	color: blue;
+	text-align: center;
+	border: 1px solid blue;
+	border-radius: 10px;
+	clear: both;
+	height: 50px;
+	margin-top: 290px;
+}
+.footer2
+{
+	background-color: orange;
+	color: blue;
+	text-align: center;
+	border: 1px solid blue;
+	border-radius: 10px;
+	clear: both;
+	height: 50px;
+	margin-top: 1px;
+	width: 100%;
+}
+
+.boxes
+{
+	width: 100%;
+	display: block;
+	display: inline;
+	
+
+}
+.box
+{
+	width: 20%;
+	height:30px; 
+	margin-right: 30px;
+	float: right;
+}
+img
+{
+	border:1px solid blue;
+	border-radius: 10px;
+	border-style: inset;
+	float: right;
+}
+.box img
+{
+	width:100%;
+	height:200px;
+}
+.box1
+{
+	
+	border:0.5px lightblue solid;
+	border-radius: 9px;
+	border-style: outset;
+    font-family: Kalimati;
+    font-size: 13px;
+    color: brown;
+}
+.boxes1
+{
+	height: 500px;
+	width: 20%;
+}
+body
+{
+	background-image: url("resources/img.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	height: 750px;
+	background-color: lightblue;
+}
+.cont
+
+{
+	background-color:lightgreen;
+	border:2px solid blue;
+	width: 50%;
+	border-radius: 10px;
+	padding: 10px;
+	margin-left: 25%;
+	margin-right:25%;
+
+
+}
+
+a
+{
+	height: 500px;
+	color: red;
+}
+.bt
+{
+	float: center;
+	width: 10%;
+	margin-left: 45%;
+	margin-right:45%;
+	margin-top: 595px;
+	border:white;
+	border-radius: 10px;
+	border-style: double;
+
+}
+.footer1
+{
+	background-color: orange;
+	color: blue;
+	text-align: center;
+	border: 1px solid blue;
+	border-radius: 10px;
+	clear: both;
+	height: 50px;
+	margin-top: 315px;
+	width: 100%;
+}
+h1,h2,h3,h4
+{
+	font-family: MathJax_Caligraphic;
+}
+ul
+{
+	background-color: #009900;
+	color: #CC00CC;
+	font-family: Noto Serif Gujarati;
+	padding-left: 50%;
+	padding-right: 50%
+      
+}
